@@ -1,4 +1,4 @@
-# Put title of your app here
+# 
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -6,12 +6,11 @@
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+This weather app is pet-themed! The user can always choose the app’s theme to be a dog version or a cat version, depending on what they prefer. Along with the cutest animated pet of your choice, you can also find out the latest news. There is a slider provided for you to change the time of weather you want to know. 
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+As a pet-lover and a new app developer, I thought it would be fun to combine both and make an app with a pet theme! I've had this idea for a while and this seemed like the perfect opportunity as I also got to learn about Jetpack Compose. Since everyone has their own preference, I made the app customisable, so that the user can choose their weather app's theme pet (cat/ dog) and they can always switch to the other one if they change their mind.
 
 
 ## :camera_flash: Screenshots
